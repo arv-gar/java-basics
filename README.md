@@ -1,2 +1,2 @@
 # java-basics
-Simple Java programs
+A simple java program that converts fahrenheit to celsius and vice-versa.
