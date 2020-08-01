@@ -12,11 +12,11 @@ public class arvjav {
         
         if(tempType.equals("F")) {
             double newTemp = (userTemp-32)*5/9;
-            System.out.println(newTemp);
+            System.out.println(newTemp + " Celsius");
         }
         else if(tempType.equals("C")) {
             double newTemp = (userTemp*9)/5+32;
-            System.out.println(newTemp);
+            System.out.println(newTemp + " Fahrenheit");
         }
         else {
             System.out.println("Invalid temperature type!");
